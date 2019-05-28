@@ -7,7 +7,9 @@
 export default {
     data() {
         return {};
-    }
+    },
+    created() {},
+    mounted() {}
 };
 </script>
 <style lang='less' scoped>
